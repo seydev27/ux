@@ -1,22 +1,14 @@
-# UX
+# 🧪 UX Research & Design
 
-This repository is my archive of user experience research and design work.  
-It includes case studies, design artifacts, wireframes, usability notes, and UX writing experiments.
+This repository explores user experience through research, design, and strategy artifacts.
 
----
-
-### 🔍 Focus Areas
-- User needs assessment
-- Interaction flows
-- Design iteration
-- UX writing & accessibility
-- Heuristic evaluation
-- User journeys
-- Personas
+Includes work in:
+- User research and usability evaluation
+- Interaction flows and wireframes
+- Information architecture (IA)
+- UX writing and content strategy
+- Heuristic analysis and design critique
 
 ---
 
-### ⚠️ Disclaimer  
-This repository is intended as a personal learning and documentation space.  
-It is not affiliated with specific course materials. 
-
+> 🛑 **Disclaimer:** This repository contains original work created for personal learning and portfolio development.  
