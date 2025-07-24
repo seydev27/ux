@@ -15,7 +15,7 @@ MobileGuest was a mobile app designed to help vacation rental owners in Hawai‘
 🧭 [Agile Story Map](artifacts/story-map.png)
 
 ## 🎥 Final Product Video  
-[Watch the original MobileGuest demo on Vimeo](https://vimeo.com/your-video-link)  
+[Watch the original MobileGuest demo on Vimeo]https://vimeo.com/375166346?share=copy
 Developed and deployed with clients in Lahaina prior to the COVID-19 travel shutdown.
 
 ## 🛠 Tools & Tech  
