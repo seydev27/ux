@@ -21,10 +21,6 @@ Figma · Miro · Balsamiq · Optimal Workshop · NN/g Research Templates · Canv
 
 ---
 
-# 🧪 UX Case Studies & Research Archive
-
-This repository contains selected UX case studies, artifacts, and research processes developed through formal coursework and real-world application. Each folder includes structured documentation (`README.md`) and supporting materials relevant to the project.
-
 ## 🔎 Included Case Studies
 
 - [`craigslist-mobile-ia-redesign`](./craigslist-mobile-ia-redesign/)  
