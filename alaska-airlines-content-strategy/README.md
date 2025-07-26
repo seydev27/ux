@@ -1,12 +1,13 @@
 # ✈️ Alaska Airlines – UX Content Strategy Case Study
 
-This case study focuses on improving content within Alaska Airlines' mobile booking flow using a 6-step UX content strategy process. The goal was to identify key pain points in the user experience related to change policies, prioritize content improvements, and suggest actionable edits. Completed as part of the UC Berkeley Extension Content Strategy course.
+This case study focused on improving content within Alaska Airlines' mobile booking flow using a 6-step UX content strategy process. It was during the pandemic. The goal was to identify key pain points in the user experience related to concern about change policies, to prioritize content improvements, and suggest actionable edits. Completed as part of the UC Berkeley Extension UX Content Strategy course.
 
 ## 📌 Reqs  
 - Audit the mobile booking task flow for UX content issues  
 - Define prioritization criteria for content changes  
 - Benchmark against a competitor app (United Airlines)  
 - Improve tone, clarity, and scannability on key screens
+- Present results for exec action
 
 ## 📂 Key Artifacts  
 📸 Annotated booking flow screenshots  
