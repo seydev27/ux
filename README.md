@@ -17,7 +17,7 @@ Each folder includes:
 
 ## 🛠 Tools Used
 
-Figma · Miro · Balsamiq · Optimal Workshop · NN/g Templates · Google Workspace
+Figma · Miro · Balsamiq · Optimal Workshop · NN/g Research Templates · Canva · PowerPoint
 
 ---
 
