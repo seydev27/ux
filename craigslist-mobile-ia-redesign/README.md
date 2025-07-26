@@ -3,7 +3,7 @@
 🔗 **See it live:** [Full Case Study on UXGO](https://uxgo.io/p/loopsoft)
 
 Team redesign of the information architecture (IA) for Craigslist's mobile app to improve navigation and reduce friction on small screens. 
-This UC Berkeley UX project focused on restructuring category depth by shifting to an action-based model — helping users complete high-value tasks faster.
+This UC Berkeley UX project achieved the key insight through mental model resarch — to focus on restructuring category depth by shifting to an action-based model — helping users complete high-value tasks faster.
 
 ---
 
